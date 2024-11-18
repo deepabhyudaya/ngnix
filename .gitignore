@@ -1,8 +1,14 @@
-*
-
-!.gitignore
 
 
 !conf/ngnix.conf
 
-!html
+contrib/*
+docs/*
+
+logs/*
+temp/*
+
+SECURITY.md
+nginx.exe
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
