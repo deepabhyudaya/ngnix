@@ -3,6 +3,6 @@
 !.gitignore
 
 
-!*/conf/ngnix.conf
+!conf/ngnix.conf
 
-!*/html
+!html
