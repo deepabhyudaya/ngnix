@@ -1,6 +1,7 @@
 
 
 !conf/ngnix.conf
+conf/*
 
 contrib/*
 docs/*
